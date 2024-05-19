@@ -1,7 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Sergio Diaz</h1>
 <h3 align="center">A passionate about programming</h3>
 
-- 🔭 I’m currently working on [42 Málaga Telefónica](https://www.42malaga.com/)
+- 🔭 I’m currently I am currently doing a specialty in AI on [42 Málaga Telefónica](https://www.42malaga.com/)
+
+- 📖 This is my portfolio of [42 projects](https://github.com/SergioDiazDev/Portfolio_42)  
 
 - 💬 Ask me about **Anything🐒**
 
