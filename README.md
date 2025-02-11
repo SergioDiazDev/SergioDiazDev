@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sergiodiazdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiodiazdev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20049375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20049375" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sdiazdev" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/kaggle_logo_icon_168473.png" alt="20049375" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sdiazdev" target="blank"><img align="center" src="https://th.bing.com/th?id=ODLS.b49bca18-0e27-4c0e-826c-058884714fcb&w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" alt="20049375" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
